@@ -13,7 +13,7 @@ export default function Demo3()
   return (
     <div>
 {
-    name ? <b>ARADHYA</b> : <b>NONE</b>
+    name ? <b>krishna</b> : <b>NONE</b>
 }
 <button onClick={handlechange}>Change</button>
 
